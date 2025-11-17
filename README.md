@@ -1,2 +1,0 @@
-# chuyen_doi_so_quan_ly_suc_khoe_benh_nhan
-cdsqlskbn
